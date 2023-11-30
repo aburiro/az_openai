@@ -1,4 +1,4 @@
- 
+  
 import image from '../assets/images/callsense.png'
 function AllProjects() {
     return (
